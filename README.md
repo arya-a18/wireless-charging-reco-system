@@ -27,14 +27,19 @@ Clean UI suitable for presentations and hackathon demos.
 Tech Stack
 
 Backend: Python, Flask, SQLite (database for simulated solar readings)
+
 Frontend: HTML, CSS, JavaScript, Leaflet.js (map & heatmap)
+
 Visualization: Leaflet.heat plugin for heatmap generation
 
 How It Works
 
 Simulated Solar Data: The backend generates randomized solar intensity readings for demonstration purposes.
+
 API Routes: Flask serves API endpoints for retrieving heatmap data and top locations.
+
 Frontend Map: Leaflet.js fetches API data and displays it as an interactive heatmap.
+
 Top Locations: Backend calculates top 3 locations based on average intensity and frontend displays markers and a panel.
 
 Use Case / Impact
