@@ -2,7 +2,7 @@
 
 This web application visualizes solar energy potential across a region to help government agencies, corporates, and planners identify the most suitable locations for solar power installations. By simulating solar intensity readings, the application provides a heatmap of solar potential and automatically highlights the top locations for solar plant deployment.
 
-The project is designed as a fully software-based solution that can be easily adapted to real-world solar sensor data in the future. It demonstrates the concept of data-driven solar site selection in a visually intuitive manner, making it ideal for hackathons, presentations, and feasibility studies.
+
 
 Key Features
 
