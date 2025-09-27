@@ -45,6 +45,9 @@ Top Locations: Backend calculates top 3 locations based on average intensity and
 Use Case / Impact
 
 Enables data-driven decision-making for solar energy planning.
+
 Helps planners identify high potential solar zones quickly.
+
 Can be adapted for wireless EV charging planning by linking solar sites with charging stations.
+
 Ideal for hackathons, academic projects, or prototype demonstrations.
